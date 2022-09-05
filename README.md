@@ -1,0 +1,1 @@
+## Simple page that shows a preview of the selected colors, as well as a small hexadecimal history of the colors tested
